@@ -1,0 +1,30 @@
+.ORIGAMI{
+    display :flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.newD{
+    display :flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+body{
+    background-image: url("images/bg4.jpg");
+    background-size: cover;
+}
+h3{
+   color: antiquewhite;
+    
+}
+
+h2{
+    color: antiquewhite;
+     
+ }
+
+h1{
+    color: antiquewhite;
+     
+ }
